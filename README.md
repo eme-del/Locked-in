@@ -1,6 +1,3 @@
-# Locked-in
-HNG Stage 4A
-
 # Locked-in: The Platfrom for Real Productivty
 
 ![Home Screen View](https://drive.google.com/file/d/1eHbvdEbpqIWXjJOresVlm9RphGuKucYf/view?usp=drive_link)

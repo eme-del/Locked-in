@@ -1,8 +1,8 @@
-# Locked-in: The Platfrom for Real Productivty
+# :lock: Locked-in: The Platfrom for Real Productivty
 
-![Home Screen View](https://drive.google.com/file/d/1eHbvdEbpqIWXjJOresVlm9RphGuKucYf/view?usp=drive_link)
+![Home Screen View](https://github.com/eme-del/Locked-in/blob/main/Screenshot%20(31).png)
 
-Locked-in a all-round digital platform for productivity: providing users with the slow, unglamorous process that various types of work take, from car manufacturing, writing a 50k novel in a month, undergoing research for a thesis, etc.; offering a conducive environment, tuning their focus on and tracking all their accomplishments against a set goal. 
+Locked-in an *all-round digital productivty platform* providing users with the slow, unglamorous process that various types of work take, from car manufacturing, writing a 50k novel in a month, undergoing research for a thesis, etc.; offering a conducive environment, tuning their focus on and tracking all their accomplishments against a set goal. 
 
 Locked-in works differently from other social apps, using an algorithm that keeps sessions short and memorable while providing a host of benefits.
 
@@ -42,4 +42,5 @@ It fosters an online space that creates a supply of positive:
 * Security: OAuth 2.0
 * Analytics: Google BigQuery
 
-![Code Preview](https://drive.google.com/file/d/1TebWiD4rHDYsWB6rA6l5C_PsOsDhsZU_/view?usp=drive_link)
+---
+![Code Preview](https://github.com/eme-del/Locked-in/blob/main/Screenshot%20(30).png)
